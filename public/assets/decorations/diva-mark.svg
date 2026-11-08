@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Diva birthday flower heart mark">
+  <rect width="256" height="256" rx="64" fill="#fff5e8"/>
+  <circle cx="128" cy="128" r="92" fill="#f8dde5"/>
+  <g fill="#c88799">
+    <ellipse cx="128" cy="78" rx="22" ry="37"/>
+    <ellipse cx="128" cy="178" rx="22" ry="37"/>
+    <ellipse cx="78" cy="128" rx="37" ry="22"/>
+    <ellipse cx="178" cy="128" rx="37" ry="22"/>
+    <ellipse cx="93" cy="93" rx="25" ry="20" transform="rotate(-45 93 93)"/>
+    <ellipse cx="163" cy="163" rx="25" ry="20" transform="rotate(-45 163 163)"/>
+    <ellipse cx="163" cy="93" rx="25" ry="20" transform="rotate(45 163 93)"/>
+    <ellipse cx="93" cy="163" rx="25" ry="20" transform="rotate(45 93 163)"/>
+  </g>
+  <circle cx="128" cy="128" r="24" fill="#fff5e8"/>
+  <path d="M128 143s-25-16-25-34c0-12 15-16 25-4 10-12 25-8 25 4 0 18-25 34-25 34Z" fill="#bf6575"/>
+  <circle cx="38" cy="48" r="4" fill="#d5b5a8"/>
+  <circle cx="218" cy="206" r="4" fill="#d5b5a8"/>
+</svg>
